@@ -32,5 +32,5 @@ To run the tests for the application, you can use Maven or your IDE's test runne
 Contributing
 Feel free to fork the repository and submit pull requests for improvements or bug fixes.
 License
-This project is licensed under the MIT License.
+This project is licensed under the License.
 
